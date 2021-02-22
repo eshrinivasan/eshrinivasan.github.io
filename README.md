@@ -6,3 +6,6 @@ Uses node as server and angularjs app as client
 4. Run "node server.js"
 
 The application runs at localhost:3000
+
+Click to see the portfolio(Temporary arrangement until index.html is available on root)
+https://eshrinivasan.github.io/public/index.html
